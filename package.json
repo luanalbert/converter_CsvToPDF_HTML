@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^3.0.1"
+  },
+  "name": "conversor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "luanalbert <contatoluanalbert@gmail.com>",
+  "license": "MIT"
+}
